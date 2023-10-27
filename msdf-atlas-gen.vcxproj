@@ -150,7 +150,6 @@
     <ClInclude Include="msdf-atlas-gen\Remap.h" />
     <ClInclude Include="msdf-atlas-gen\TightAtlasPacker.h" />
     <ClInclude Include="msdf-atlas-gen\Workload.h" />
-    <ClInclude Include="msdf-atlas-gen\artery-font-export.h" />
     <ClInclude Include="msdf-atlas-gen\bitmap-blit.h" />
     <ClInclude Include="msdf-atlas-gen\csv-export.h" />
     <ClInclude Include="msdf-atlas-gen\glyph-generators.h" />
@@ -173,7 +172,6 @@
     <ClCompile Include="msdf-atlas-gen\RectanglePacker.cpp" />
     <ClCompile Include="msdf-atlas-gen\TightAtlasPacker.cpp" />
     <ClCompile Include="msdf-atlas-gen\Workload.cpp" />
-    <ClCompile Include="msdf-atlas-gen\artery-font-export.cpp" />
     <ClCompile Include="msdf-atlas-gen\bitmap-blit.cpp" />
     <ClCompile Include="msdf-atlas-gen\charset-parser.cpp" />
     <ClCompile Include="msdf-atlas-gen\csv-export.cpp" />
