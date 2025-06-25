@@ -6,8 +6,8 @@ project "msdf-atlas-gen"
 	cppdialect "C++latest"
     staticruntime "On"
 
-	targetdir("%{wks.location}/Build/Binary/"..outputdir.."/%{prj.name}");
-	objdir("%{wks.location}/Build/Intermediate/"..outputdir.."/%{prj.name}");
+	targetdir("%{wks.location}/Build/Binary/"..output_dir.."/%{prj.name}");
+	objdir("%{wks.location}/Build/Intermediate/"..output_dir.."/%{prj.name}");
 
 	files
 	{
